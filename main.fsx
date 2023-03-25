@@ -70,6 +70,4 @@ let main () =
 
     printfn "API call completed %d times" x
 
-
-
 main()
